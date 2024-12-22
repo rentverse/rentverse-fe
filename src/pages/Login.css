@@ -1,0 +1,38 @@
+div .container {
+  height: 400px;
+  width: 350px;
+  border-style: solid;
+  background-color: white;
+  border-radius: 10px;
+  margin: auto;
+  border-color: rgba(2, 2, 2, 0.557);
+}
+input,
+select {
+  width: 75%;
+  padding: 10px 18px;
+  margin: 7px 0;
+  display: inline-block;
+  box-sizing: border-box;
+  font-size: medium;
+}
+.btnlogin {
+  width: 75%;
+  padding: 10px 18px;
+  margin: 7px 0;
+  display: inline-block;
+  box-sizing: border-box;
+  background-color: rgb(25, 48, 108);
+  color: white;
+  font-family: sans-serif;
+  font-size: medium;
+}
+.btnlogin:hover {
+  background-color: rgb(8, 125, 197);
+}
+.linkreg {
+  color: rgb(8, 125, 197);
+}
+.linkreg:hover {
+  color: rgb(25, 48, 108);
+}
